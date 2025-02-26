@@ -3,5 +3,5 @@ mỗi nhánh đại diện cho một bài trong khóa học
 link: https://www.youtube.com/playlist?list=PLPt6-BtUI22pYwpfmkP4EuJkf6GRe63KU
 
 Tên nhánh       Mô tả
-1               hh
-2
+1               hh demo nhanh 1
+2               demo nhanh 2
