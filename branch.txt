@@ -1,0 +1,7 @@
+Ở đây lưu lại tên nhánh và chú thích nội dung cho nhánh đó
+mỗi nhánh đại diện cho một bài trong khóa học
+link: https://www.youtube.com/playlist?list=PLPt6-BtUI22pYwpfmkP4EuJkf6GRe63KU
+
+Tên nhánh       Mô tả
+1               hh
+2
