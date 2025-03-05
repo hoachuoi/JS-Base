@@ -1,0 +1,1 @@
+alert(" Nội dung được gọi từ file main.js");
