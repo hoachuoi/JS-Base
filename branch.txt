@@ -7,3 +7,4 @@ Tên nhánh       Mô tả
 2               demo nhanh 2
 3
 4               Cách thêm js vào file html
+5               js variable
